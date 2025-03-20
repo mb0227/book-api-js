@@ -1,0 +1,8 @@
+node_modules\
+src\config\auth.config.js
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
