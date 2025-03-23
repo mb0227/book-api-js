@@ -1,0 +1,12 @@
+[
+  { "name": "J.K. Rowling", "birthDate": "1965-07-31", "nationality": "British", "biography": "Author of Harry Potter series" },
+  { "name": "George Orwell", "birthDate": "1903-06-25", "nationality": "British", "biography": "Author of 1984 and Animal Farm" },
+  { "name": "J.R.R. Tolkien", "birthDate": "1892-01-03", "nationality": "British", "biography": "Author of The Lord of the Rings" },
+  { "name": "Agatha Christie", "birthDate": "1890-09-15", "nationality": "British", "biography": "Famous for mystery novels" },
+  { "name": "Mark Twain", "birthDate": "1835-11-30", "nationality": "American", "biography": "Author of The Adventures of Tom Sawyer" },
+  { "name": "Ernest Hemingway", "birthDate": "1899-07-21", "nationality": "American", "biography": "Famous for The Old Man and the Sea" },
+  { "name": "F. Scott Fitzgerald", "birthDate": "1896-09-24", "nationality": "American", "biography": "Wrote The Great Gatsby" },
+  { "name": "Jane Austen", "birthDate": "1775-12-16", "nationality": "British", "biography": "Author of Pride and Prejudice" },
+  { "name": "Leo Tolstoy", "birthDate": "1828-09-09", "nationality": "Russian", "biography": "Wrote War and Peace" },
+  { "name": "Charles Dickens", "birthDate": "1812-02-07", "nationality": "British", "biography": "Famous for Oliver Twist" }
+]

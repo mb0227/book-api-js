@@ -1,0 +1,12 @@
+[
+  { "title": "Harry Potter and the Sorcerer's Stone", "author": "", "genre": "", "publicationDate": "1997-06-26", "publisher": "", "isbn": "9780747532699", "pages": 309, "summary": "A young wizard discovers his magical heritage." },
+  { "title": "1984", "author": "", "genre": "", "publicationDate": "1949-06-08", "publisher": "", "isbn": "9780451524935", "pages": 328, "summary": "A dystopian novel about totalitarian control." },
+  { "title": "The Hobbit", "author": "", "genre": "", "publicationDate": "1937-09-21", "publisher": "", "isbn": "9780547928227", "pages": 310, "summary": "A hobbit embarks on a dangerous adventure." },
+  { "title": "Murder on the Orient Express", "author": "", "genre": "", "publicationDate": "1934-01-01", "publisher": "", "isbn": "9780062073501", "pages": 256, "summary": "A detective investigates a murder on a train." },
+  { "title": "Pride and Prejudice", "author": "", "genre": "", "publicationDate": "1813-01-28", "publisher": "", "isbn": "9780141439518", "pages": 279, "summary": "A romance novel about societal expectations." },
+  { "title": "The Great Gatsby", "author": "", "genre": "", "publicationDate": "1925-04-10", "publisher": "", "isbn": "9780743273565", "pages": 180, "summary": "A critique of the American Dream." },
+  { "title": "War and Peace", "author": "", "genre": "", "publicationDate": "1869-01-01", "publisher": "", "isbn": "9780199232765", "pages": 1225, "summary": "A historical novel about Napoleon's invasion of Russia." },
+  { "title": "Dracula", "author": "", "genre": "", "publicationDate": "1897-05-26", "publisher": "", "isbn": "9780486411095", "pages": 418, "summary": "A classic vampire novel." },
+  { "title": "To Kill a Mockingbird", "author": "", "genre": "", "publicationDate": "1960-07-11", "publisher": "", "isbn": "9780061120084", "pages": 281, "summary": "A novel about racial injustice." },
+  { "title": "The Catcher in the Rye", "author": "", "genre": "", "publicationDate": "1951-07-16", "publisher": "", "isbn": "9780316769488", "pages": 214, "summary": "A novel about teenage rebellion." }
+]

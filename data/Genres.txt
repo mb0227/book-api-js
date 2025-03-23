@@ -1,0 +1,12 @@
+[
+  { "name": "Fantasy", "description": "Books with magical elements" },
+  { "name": "Science Fiction", "description": "Futuristic and technological themes" },
+  { "name": "Mystery", "description": "Crime and detective stories" },
+  { "name": "Historical Fiction", "description": "Set in the past with historical accuracy" },
+  { "name": "Romance", "description": "Love stories" },
+  { "name": "Thriller", "description": "Exciting and suspenseful books" },
+  { "name": "Horror", "description": "Scary and supernatural elements" },
+  { "name": "Biography", "description": "Life stories of real people" },
+  { "name": "Non-Fiction", "description": "Factual and informative books" },
+  { "name": "Classic", "description": "Timeless literary works" }
+]

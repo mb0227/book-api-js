@@ -1,0 +1,12 @@
+[
+  { "name": "Penguin Random House", "founded": 1927, "headquarters": "New York, USA", "website": "https://www.penguinrandomhouse.com" },
+  { "name": "HarperCollins", "founded": 1989, "headquarters": "New York, USA", "website": "https://www.harpercollins.com" },
+  { "name": "Simon & Schuster", "founded": 1924, "headquarters": "New York, USA", "website": "https://www.simonandschuster.com" },
+  { "name": "Hachette Book Group", "founded": 1826, "headquarters": "Paris, France", "website": "https://www.hachettebookgroup.com" },
+  { "name": "Macmillan Publishers", "founded": 1843, "headquarters": "London, UK", "website": "https://us.macmillan.com" },
+  { "name": "Bloomsbury Publishing", "founded": 1986, "headquarters": "London, UK", "website": "https://www.bloomsbury.com" },
+  { "name": "Scholastic", "founded": 1920, "headquarters": "New York, USA", "website": "https://www.scholastic.com" },
+  { "name": "Oxford University Press", "founded": 1586, "headquarters": "Oxford, UK", "website": "https://global.oup.com" },
+  { "name": "Cambridge University Press", "founded": 1534, "headquarters": "Cambridge, UK", "website": "https://www.cambridge.org" },
+  { "name": "Doubleday", "founded": 1897, "headquarters": "New York, USA", "website": "https://www.penguinrandomhouse.com" }
+]
